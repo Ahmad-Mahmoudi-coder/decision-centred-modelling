@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this documentation, please cite it using the metadata below."
+title: "Decision-Centred Modelling (DCM): Framework Documentation"
+authors:
+  - family-names: "Mahmoudi Lahijani"
+    given-names: "Seyed Ahmad"
+    affiliation: "Auckland University of Technology"
+    orcid: "https://orcid.org/0000-0002-5086-5745"
+version: "1.0.0"
+date-released: "2026-08-05"
+license: MIT
+repository-code: "https://github.com/Ahmad-Mahmoudi-coder/decision-centred-modelling"
+url: "https://ahmad-mahmoudi-coder.github.io/DCM/"
+type: software
+abstract: "Documentation for Decision-Centred Modelling (DCM), a governed modular architecture for infrastructure planning under deep uncertainty. DCM draws the analytical boundary around the decision and the consequences relevant to comparing alternatives, and couples heterogeneous modelling modules through governed, versioned, provenance-bearing interface artefacts."
+preferred-citation:
+  type: article
+  title: "Decision-Centred Modelling (DCM): A Governed Modular Architecture for Infrastructure Planning Under Deep Uncertainty"
+  authors:
+    - family-names: "Mahmoudi Lahijani"
+      given-names: "Seyed Ahmad"
+      affiliation: "Auckland University of Technology"
+      orcid: "https://orcid.org/0000-0002-5086-5745"
+  year: 2026

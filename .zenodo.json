@@ -1,0 +1,21 @@
+{
+  "title": "Decision-Centred Modelling (DCM): Framework Documentation",
+  "upload_type": "software",
+  "description": "Documentation for Decision-Centred Modelling (DCM), a governed modular architecture for infrastructure planning under deep uncertainty. DCM draws the analytical boundary around the decision and the consequences relevant to comparing alternatives, and couples heterogeneous modelling modules through governed, versioned, provenance-bearing interface artefacts. This repository builds the DCM documentation site.",
+  "creators": [
+    {
+      "name": "Mahmoudi Lahijani, Seyed Ahmad",
+      "affiliation": "Auckland University of Technology",
+      "orcid": "0000-0002-5086-5745"
+    }
+  ],
+  "license": "mit",
+  "keywords": [
+    "decision-centred modelling",
+    "robust decision making",
+    "deep uncertainty",
+    "infrastructure planning",
+    "modular modelling",
+    "artefact governance"
+  ]
+}
